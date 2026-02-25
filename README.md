@@ -1,4 +1,4 @@
-# 💰 AI Finance Copilot — Agentic GenAI App
+# 💰 FinPilot-AI — Agentic GenAI App
 
 An AI-powered financial planning assistant built with **Streamlit** and **Groq LLM**. Uses a tool-calling agentic architecture for EMI simulation, budget-aware affordability risk analysis, stress testing, and scenario-based decision support — with full explainability.
 

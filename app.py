@@ -1,5 +1,5 @@
 """
-AI Finance Copilot — Streamlit UI (v2: XAI, Stress Test, Budget-Aware, Enhanced Scenarios)
+FinPilot-AI — Streamlit UI (v2: XAI, Stress Test, Budget-Aware, Enhanced Scenarios)
 """
 
 import streamlit as st
@@ -9,7 +9,7 @@ from agent import run_agent
 
 # ───────────────────────── Page Config ─────────────────────────
 st.set_page_config(
-    page_title="AI Finance Copilot",
+    page_title="FinPilot-AI",
     page_icon="💰",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -117,7 +117,7 @@ st.markdown("""
 # ───────────────────────── Header ─────────────────────────
 st.markdown("""
 <div class="main-header">
-    <h1>💰 AI Finance Copilot</h1>
+    <h1>💰 FinPilot-AI</h1>
     <p>Agentic AI-powered loan planning &amp; affordability analysis — with explainability &amp; stress testing</p>
 </div>
 """, unsafe_allow_html=True)
